@@ -55,6 +55,15 @@
   <ItemGroup>
     <Compile Include="CalculatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestingExceptions.cs" />
+    <Compile Include="TestingObjectTypes.cs" />
+    <Compile Include="TestingEnumrablesContent.cs" />
+    <Compile Include="TestingRanges.cs" />
+    <Compile Include="TestingNulls.cs" />
+    <Compile Include="TestingDecimal.cs" />
+    <Compile Include="TestingBooleans.cs" />
+    <Compile Include="TestingEnumrables.cs" />
+    <Compile Include="TestingSingleObjects.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
